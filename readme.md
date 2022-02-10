@@ -30,4 +30,13 @@
 
 ### 5. picGo 快捷键
 
+#### 5.1 picGo 快捷键
 -  ![快捷键](https://cdn.jsdelivr.net/gh/chenkanuo/pic/pics/12.png)
+
+#### 5.2 Mac 截图快捷键
+-  Shift + Command + 4
+
+#### 5.3 使用步骤
+-  1. 截图 ： Shift + Command + 4
+-  2. 存储到剪切板
+-  3. 上传至github : Cmd + Opt + U
